@@ -6,3 +6,5 @@
 3. flex-direction:row cerge uzre, flex-direction:column sutun uzre
 
 4. flex containere gore: display:flex,  flex-direction:column ve ya row,  justify-content:center,  flex iteme gore : align-self, flex:..., order:1
+
+
