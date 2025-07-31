@@ -7,4 +7,6 @@
 
 4. flex containere gore: display:flex,  flex-direction:column ve ya row,  justify-content:center,  flex iteme gore : align-self, flex:..., order:1
 
+5. flex-shrink, flex-basis shorhandlar
+
 
