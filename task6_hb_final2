@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Pricing Table</title>
+</head>
+<body>
+    <header clas="header">Basliq</header>
+    <main class="card-container">
+        <div class="card">
+            <p>numune1</p>
+        </div>
+        <div class="card">
+            <p>numune2</p>
+        </div>
+        <div class="card">
+            <p>numune3</p>
+        </div>
+        <div class="card">
+            <p>numune4</p>
+        </div>
+    </main>
+    <footer class="footer">
+        <p>muellif huquqlari</p>
+    </footer>
+</body>
+</html>
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    padding: 20px;
+}
+
+.card-container{
+    display: flex;
+    gap:20px;
+    justify-content: center;
+    align-items: center;
+}
+.header{
+    background-color: bisque;
+    padding: 20px;
+    margin:0;
+    text-align: center;
+}
+
+.footer{
+    background-color: aquamarine;
+    padding: 20px;
+    margin:0;
+}
