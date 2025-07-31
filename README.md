@@ -15,3 +15,7 @@ flex-basis:
 This property specifies the initial size of a flex item before any growing or shrinking occurs. It can be a length value (e.g., 100px, 50%), or auto (which uses the item's content size).
 
 
+First, select your mobile or web browser
+then check the headings (header, main, footer, etc.)
+It's beautiful with css
+
